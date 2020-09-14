@@ -11,3 +11,8 @@ Started implementation of an authentication/authorization service written in Go.
 ### Day 2: September 13
 
 Trying to figure out how to handle database migrations in a Go app.
+### Day 3: September 14
+
+Set up simple database migrations handling. Added migration files for basic database model of the authentication service.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/41eedf61bac9da2d839708aa4b4c50721569dd4a)

@@ -16,3 +16,8 @@ Trying to figure out how to handle database migrations in a Go app.
 Set up simple database migrations handling. Added migration files for basic database model of the authentication service.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/41eedf61bac9da2d839708aa4b4c50721569dd4a)
+### Day 4: September 15
+
+Learned how to organize database acccess in an application using dependency injection.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/726a9cba0a29222edc12edbd515feda37f343252)

@@ -21,3 +21,8 @@ Set up simple database migrations handling. Added migration files for basic data
 Learned how to organize database access in an application using dependency injection.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/726a9cba0a29222edc12edbd515feda37f343252)
+### Day 5: September 16
+
+Learning about handling HTTP requests in Go. Created "dumb" handler for email registration to define basic steps of the handler.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/7c8a7fbbe52a8aa6c4423e3074a1742768933ec1)

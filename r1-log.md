@@ -26,3 +26,8 @@ Learned how to organize database access in an application using dependency injec
 Learning about handling HTTP requests in Go. Created "dumb" handler for email registration to define basic steps of the handler.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/7c8a7fbbe52a8aa6c4423e3074a1742768933ec1)
+### Day 6: September 17
+
+Added password hashing. Created a few helpers for request handlers. Need to learn about [layout for Go application projects](https://github.com/golang-standards/project-layout). 
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/d8872214d60d491bf6fd026242012d2f8a542537)

@@ -31,3 +31,8 @@ Learning about handling HTTP requests in Go. Created "dumb" handler for email re
 Added password hashing. Created a few helpers for request handlers. Need to learn about [layout for Go application projects](https://github.com/golang-standards/project-layout). 
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/d8872214d60d491bf6fd026242012d2f8a542537)
+### Day 7: September 18
+
+Learning about unit testing in Go. Added user struct validations and unit tests to test this validations.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/6f3d7e451627d9070885f702691f7367fd7f5b9e)

@@ -36,3 +36,8 @@ Added password hashing. Created a few helpers for request handlers. Need to lear
 Learning about unit testing in Go. Added user struct validations and unit tests to test this validations.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/6f3d7e451627d9070885f702691f7367fd7f5b9e)
+### Day 8: September 19
+
+Learned basisc of testing HTTP handlers in Go. Added unit tests for the current implementation of the sign up handler, but only for cases of responses with errors. Need to learn about mocking database calls. Started to read [Learn Go with Tests](https://github.com/quii/learn-go-with-tests), learned about test helpers and subtests.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/5c27346a7ee7b7ea5e7f0c6df112857853405c28)

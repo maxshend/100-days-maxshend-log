@@ -41,3 +41,9 @@ Learning about unit testing in Go. Added user struct validations and unit tests 
 Learned basisc of testing HTTP handlers in Go. Added unit tests for the current implementation of the sign up handler, but only for cases of responses with errors. Need to learn about mocking database calls. Started to read [Learn Go with Tests](https://github.com/quii/learn-go-with-tests), learned about test helpers and subtests.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/5c27346a7ee7b7ea5e7f0c6df112857853405c28)
+### Day 9: September 20
+
+Added more informative validation errors. Moving towards translatable error messages. Made string literals (like "application/json", "Content-Type") package-level constants so I don't have to type them over and over.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/d34e48ff4c1763af37e81d6c2758a09b086159a7)
+

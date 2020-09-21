@@ -46,4 +46,8 @@ Learned basisc of testing HTTP handlers in Go. Added unit tests for the current 
 Added more informative validation errors. Moving towards translatable error messages. Made string literals (like "application/json", "Content-Type") package-level constants so I don't have to type them over and over.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/d34e48ff4c1763af37e81d6c2758a09b086159a7)
+### Day 10: September 21
 
+Created interface DataLayer that wraps methods for the database access. This interface allows me to write unit tests without hitting the database. Added named return values for the init validator function to make it more clear.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/b13654ff4d35815c8878b183afbf302c7c688e45)

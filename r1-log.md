@@ -56,4 +56,5 @@ Created interface DataLayer that wraps methods for the database access. This int
 Set up hot reloading to speed up my development. Added custom validation for user's email uniqueness. Learned about cyclic dependency and why it's bad.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/2cd97bd167b2331cb43917f4b60ba99e94d129e6)
+
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/2eef47a94ee827205324746638b24024052b31da)

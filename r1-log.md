@@ -51,3 +51,9 @@ Added more informative validation errors. Moving towards translatable error mess
 Created interface DataLayer that wraps methods for the database access. This interface allows me to write unit tests without hitting the database. Added named return values for the init validator function to make it more clear.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/b13654ff4d35815c8878b183afbf302c7c688e45)
+### Day 11: September 22
+
+Set up hot reloading to speed up my development. Added custom validation for user's email uniqueness. Learned about cyclic dependency and why it's bad.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/2cd97bd167b2331cb43917f4b60ba99e94d129e6)
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/2eef47a94ee827205324746638b24024052b31da)

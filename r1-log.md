@@ -58,3 +58,9 @@ Set up hot reloading to speed up my development. Added custom validation for use
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/2cd97bd167b2331cb43917f4b60ba99e94d129e6)
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/2eef47a94ee827205324746638b24024052b31da)
+
+### Day 12: September 23
+
+Learning about using jwt for Authentication in a Go app. Playing around with jwt libary. Change arguments for the method that checks existing db records to make it more safe. Add migration tasks to Makefile.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/07dfedca0b68a84c960720a6900dec200346c320)

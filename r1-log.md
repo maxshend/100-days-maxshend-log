@@ -64,3 +64,9 @@ Set up hot reloading to speed up my development. Added custom validation for use
 Learning about using jwt for Authentication in a Go app. Playing around with jwt libary. Change arguments for the method that checks existing db records to make it more safe. Add migration tasks to Makefile.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/07dfedca0b68a84c960720a6900dec200346c320)
+
+### Day 13: September 24
+
+Created a struct to organize authentication tokens details. Created a function that generates JWT access and refresh tokens that will be used in the authentication flow.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/2f6c587180578c4147d41db6ae6c78ff8e496a6c)

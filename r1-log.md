@@ -73,3 +73,8 @@ Created a struct to organize authentication tokens details. Created a function t
 Created a handler for email login HTTP request. Added unit tests to check HTTP status code of the response. Learned more details about Go slices.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/f2a3d8b2acc086d895b3d91979aaf25585b35939)
+### Day 15: September 26
+
+Created a function to validate Access JWT. Added respective unit tests. Learned about Table Driven Tests in Go.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/4f8640a397880b508cac96457b72fde1429541e3)

@@ -78,3 +78,9 @@ Created a handler for email login HTTP request. Added unit tests to check HTTP s
 Created a function to validate Access JWT. Added respective unit tests. Learned about Table Driven Tests in Go.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/4f8640a397880b508cac96457b72fde1429541e3)
+### Day 16: September 27
+
+Created a struct for JWT claims. Set up connection to Redis from the app. Redis will be used in the JWT invalidation flow.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/a2202f4fb3d3c6da6a1e70c4bc48353556806c54)
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/3e8cee5d831f37e2a7ff9b88b41a5c0e03382d57)

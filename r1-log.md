@@ -83,4 +83,5 @@ Created a function to validate Access JWT. Added respective unit tests. Learned 
 Created a struct for JWT claims. Set up connection to Redis from the app. Redis will be used in the JWT invalidation flow.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/a2202f4fb3d3c6da6a1e70c4bc48353556806c54)
+
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/3e8cee5d831f37e2a7ff9b88b41a5c0e03382d57)

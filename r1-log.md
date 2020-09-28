@@ -85,3 +85,8 @@ Created a struct for JWT claims. Set up connection to Redis from the app. Redis 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/a2202f4fb3d3c6da6a1e70c4bc48353556806c54)
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/3e8cee5d831f37e2a7ff9b88b41a5c0e03382d57)
+### Day 17: September 28
+
+Added logout HTTP handler. Organized storing of the access and refresh token UUID in the redis. Created a middleware handler for authenticated requests.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/4a173f30ee8227ec243231329f5b4e95f94c6e86)

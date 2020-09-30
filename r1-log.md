@@ -95,3 +95,8 @@ Added logout HTTP handler. Organized storing of the access and refresh token UUI
 Created an HTTP handler for getting an access token from a valid refresh token. 
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/3798beb9b031d00948ed3bf44eebc19c2006bdfa)
+### Day 19: September 30
+
+Learning about writing and storing Go app logs. Trying to figure out what and how to log. Playing around with a logging library. Created a log wrapper to standardize log output inside the app.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/503b1da2988cee6ccb3b42e0256b9431196bac67)

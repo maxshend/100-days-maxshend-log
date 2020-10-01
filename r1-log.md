@@ -100,3 +100,8 @@ Created an HTTP handler for getting an access token from a valid refresh token.
 Learning about writing and storing Go app logs. Trying to figure out what and how to log. Playing around with a logging library. Created a log wrapper to standardize log output inside the app.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/503b1da2988cee6ccb3b42e0256b9431196bac67)
+### Day 20: October 1
+
+Created HTTP middleware handler for loggin. Need to learn more about organizing and using HTTP handlers in Go. Think that I'm doing something wrong.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/b6132283be924a841e04e608e3ae2d6a8a9ea375)

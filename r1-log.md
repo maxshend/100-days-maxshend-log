@@ -105,3 +105,8 @@ Learning about writing and storing Go app logs. Trying to figure out what and ho
 Created HTTP middleware handler for loggin. Need to learn more about organizing and using HTTP handlers in Go. Think that I'm doing something wrong.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/b6132283be924a841e04e608e3ae2d6a8a9ea375)
+### Day 21: October 2
+
+Figured out how to disable logging in unit tests without stubs. Added logging for internal server errors and fatal errors. Added more unit tests to increase test coverage (my aim is more than 90%). Need to learn about reusing test helpers.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/d00498b961d2de0e15a0c59f9ef59de06947ce68)

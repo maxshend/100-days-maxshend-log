@@ -110,3 +110,8 @@ Created HTTP middleware handler for loggin. Need to learn more about organizing 
 Figured out how to disable logging in unit tests without stubs. Added logging for internal server errors and fatal errors. Added more unit tests to increase test coverage (my aim is more than 90%). Need to learn about reusing test helpers.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/d00498b961d2de0e15a0c59f9ef59de06947ce68)
+### Day 22: October 3
+
+Learning how to implement JWT role-based authorization. Bug fixing.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/787381356c7020fc473bdeb6e381f1ba67b7653d)

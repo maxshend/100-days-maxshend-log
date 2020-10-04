@@ -115,3 +115,11 @@ Figured out how to disable logging in unit tests without stubs. Added logging fo
 Learning how to implement JWT role-based authorization. Bug fixing.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/787381356c7020fc473bdeb6e381f1ba67b7653d)
+### Day 23: October 4
+
+Learned that env variables isn't set in unit tests until you specify them in the command. Fixed the bug related to this behaviour.
+Created a package for test helpers.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/2ad92372b20cd2225273095fa5c239410692eafb)
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/7ef528447cb10ad1df1ccb70e01cc893364050ff)

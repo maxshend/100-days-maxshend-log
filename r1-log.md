@@ -123,3 +123,8 @@ Created a package for test helpers.
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/2ad92372b20cd2225273095fa5c239410692eafb)
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/7ef528447cb10ad1df1ccb70e01cc893364050ff)
+### Day 24: October 5
+
+Added roles data to JWT payload. Learned about ARRAY_AGG function in PostgreSQL.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/fd789bdbe82f3947545a475f8f5e1f704317bda9)

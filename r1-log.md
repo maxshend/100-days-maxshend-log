@@ -128,3 +128,8 @@ Created a package for test helpers.
 Added roles data to JWT payload. Learned about ARRAY_AGG function in PostgreSQL.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/fd789bdbe82f3947545a475f8f5e1f704317bda9)
+### Day 25: October 6
+
+Learning about different ways to encode/decode JSON in Go. Created constant errors instead of simple variables containing `errors.New` to make errors more reusable and immutable.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/37cf14391c6265b7a8ecea3646dec91e4fb7e193)

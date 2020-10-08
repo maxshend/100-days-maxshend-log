@@ -138,3 +138,8 @@ Learning about different ways to encode/decode JSON in Go. Created constant erro
 Learning best practices of handling errors in Go. Added handlers helpers for sending responses. Need to refactor deps.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/89de33d85c558b3d49bf1774ee757dd65d481fe9)
+### Day 27: October 8
+
+Learned how to get details about test coverage using Go tools. Added more unit tests.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/6e345545f7a6fd3b121d9013d1fd7a3b3000e70e)

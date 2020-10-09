@@ -143,3 +143,8 @@ Learning best practices of handling errors in Go. Added handlers helpers for sen
 Learned how to get details about test coverage using Go tools. Added more unit tests.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/6e345545f7a6fd3b121d9013d1fd7a3b3000e70e)
+### Day 28: October 9
+
+Started JavaScript30 course. Finished first lesson.
+
+[Link to work]()

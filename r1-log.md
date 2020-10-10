@@ -148,3 +148,8 @@ Learned how to get details about test coverage using Go tools. Added more unit t
 Started JavaScript30 course. Finished first lesson.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/7ce124ae306b8ca70f36bfbe02e71c319b3c4d5a)
+### Day 29: October 10
+
+Finished second challenge of JavaScript30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/cc1d306ebd98f46cc88089fe55eb3d05732a7f2d)

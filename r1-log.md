@@ -153,3 +153,8 @@ Started JavaScript30 course. Finished first lesson.
 Finished second challenge of JavaScript30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/cc1d306ebd98f46cc88089fe55eb3d05732a7f2d)
+### Day 30: October 11
+
+Decided to change JWT signing method from HMAC to RSA.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/00bbcd1f9522407b1987a326e5f642cead2b3b48)

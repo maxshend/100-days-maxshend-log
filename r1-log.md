@@ -163,3 +163,10 @@ Decided to change JWT signing method from HMAC to RSA.
 Fixing errors in unit tests that caused by the changed JWT signing method. Finished 3rd challenge of JS30. Learned about CSS custom properties (variables).
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/885529bbf28e731177c0477fd300a1b8e3350f3c)
+### Day 32: October 13
+
+Adopted unit tests to changed JWT signing method. Finished 4th challenge of JS30. Recap JS array functions and their syntax.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/ae104a8d6d2e7b0615bb7baf8b3ec057d56412ef)
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/9fd1a24aad685f81ae3bc8bced09f82a9e503a0f)

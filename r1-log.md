@@ -170,3 +170,8 @@ Adapted unit tests to changed JWT signing method. Finished 4th challenge of JS30
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/8d66d87c54c4eff152f6ae2dbd66f36ca356d41d)
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/9fd1a24aad685f81ae3bc8bced09f82a9e503a0f)
+### Day 33: October 14
+
+Learning about CSS Flexbox. Finished 5th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/346ef797286e4c644c2927a87f30f1c5036a7af6)

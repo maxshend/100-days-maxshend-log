@@ -175,3 +175,8 @@ Adapted unit tests to changed JWT signing method. Finished 4th challenge of JS30
 Learning about CSS Flexbox. Finished 5th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/346ef797286e4c644c2927a87f30f1c5036a7af6)
+### Day 34: October 15
+
+Learned about mocking in Go using interfaces. Started implementation of a ruby gem that will be used for integration with my auth service in ruby apps.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-ruby/commit/4cefeff0ba47292c777f658ded61a48afd325c4c)

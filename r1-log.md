@@ -180,3 +180,8 @@ Learning about CSS Flexbox. Finished 5th challenge of JS30.
 Learned about mocking in Go using interfaces. Started implementation of a ruby gem that will be used for integration with my auth service in ruby apps.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-ruby/commit/57ec3fecfe97870d410facab6bc14fcb0a6fdb26)
+### Day 35: October 16
+
+Finished 6th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/eae652e926c03ce9037daf51e84fd4829579ec55)

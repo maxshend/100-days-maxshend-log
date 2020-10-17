@@ -185,3 +185,8 @@ Learned about mocking in Go using interfaces. Started implementation of a ruby g
 Finished 6th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/eae652e926c03ce9037daf51e84fd4829579ec55)
+### Day 36: October 17
+
+Started implementation of migrations/models generator for the gem, that will be used in Rails apps.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/41bc331495d0e55d34026299947689437783f2bf)

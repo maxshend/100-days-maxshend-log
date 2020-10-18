@@ -195,4 +195,5 @@ Started implementation of migrations/models generator for the gem, that will be 
 Add a model generation and customizable model name to the gem. Finished 7th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/8a353fff6955a19cdd38a87c33b2e7146ce638fd)
+
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/6ee31da4904d2b9b3a42453f93f6a87c94498f98)

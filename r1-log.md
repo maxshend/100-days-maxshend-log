@@ -202,3 +202,8 @@ Add a model generation and customizable model name to the gem. Finished 7th chal
 Finished 8th challenge of JS30. Learned basics of HTML5 Canvas.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/61f0f5a86e1a797175623cace32231d52935d779)
+### Day 39: October 20
+
+Implemented ability to insert content to existing models when model file already exists, to create a different migration file based on existing models and migrations files.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/77bb2a1c485f0c262cdbf4bbbc7cff3e1b4de9aa)

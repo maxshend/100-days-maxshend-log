@@ -207,3 +207,10 @@ Finished 8th challenge of JS30. Learned basics of HTML5 Canvas.
 Implemented ability to insert content to existing models when model file already exists, to create a different migration file based on existing models and migrations files.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/77bb2a1c485f0c262cdbf4bbbc7cff3e1b4de9aa)
+### Day 40: October 21
+
+Added routes configurations, so new routes could be added to a Rails app from the gem. Finished 9th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/f63247602fa2f357cb1dcafb7f14360e2afc5a44)
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/316b168f512d631a20e4f11fa4e211dea6e26b60)

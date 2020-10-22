@@ -214,3 +214,8 @@ Added routes configurations, so new routes could be added to a Rails app from th
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/f63247602fa2f357cb1dcafb7f14360e2afc5a44)
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/316b168f512d631a20e4f11fa4e211dea6e26b60)
+### Day 41: October 22
+
+Created base for users creation in the app from the auth service.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/f51a432c008459770afbaa927f2e8a6e966632c4)

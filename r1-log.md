@@ -221,6 +221,6 @@ Created base for users creation in the app from the auth service using the gem.
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/f51a432c008459770afbaa927f2e8a6e966632c4)
 ### Day 42: October 23
 
-Created a JSON API method to create user records in an Rails App from the auth service.
+Created a JSON API method that creates user records in a Rails app from the auth service.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/0e1a439a008d24097465d3c3775494f4380df7cd)

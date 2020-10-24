@@ -224,3 +224,8 @@ Created base for users creation in the app from the auth service using the gem.
 Created a JSON API method that creates user records in a Rails app from the auth service.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/0e1a439a008d24097465d3c3775494f4380df7cd)
+### Day 43: October 24
+
+Finished 10th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/8cbf7cc6e2ef7150747f639509d5cc5a4707b480)

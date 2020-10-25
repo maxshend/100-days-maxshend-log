@@ -229,3 +229,8 @@ Created a JSON API method that creates user records in a Rails app from the auth
 Finished 10th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/8cbf7cc6e2ef7150747f639509d5cc5a4707b480)
+### Day 44: October 25
+
+Started to implement creation of an external user record using JSON API of a Rails app (that uses the gem).
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/025019b902b44c0029e8fbd167398f3cc2b9401f)

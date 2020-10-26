@@ -234,3 +234,8 @@ Finished 10th challenge of JS30.
 Started to implement creation of an external user record using JSON API of a Rails app (that uses the gem).
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/025019b902b44c0029e8fbd167398f3cc2b9401f)
+### Day 45: October 26
+
+Finished 11th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/aa54aad6ff5217ff1a6a8718c3591bf7d276ab03)

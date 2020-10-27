@@ -239,3 +239,10 @@ Started to implement creation of an external user record using JSON API of a Rai
 Finished 11th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/aa54aad6ff5217ff1a6a8718c3591bf7d276ab03)
+### Day 46: October 27
+
+Allow additional payload in the sign up request. Finished 12th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/b81a868b89bfda026ee6505c73c11484d75bf77d)
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/ef5d3b6da8afa01294da9b808443b5f2118a926c)

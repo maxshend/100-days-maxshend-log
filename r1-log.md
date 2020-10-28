@@ -246,3 +246,8 @@ Allow additional payload in sign up requests. Finished 12th challenge of JS30.
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/b81a868b89bfda026ee6505c73c11484d75bf77d)
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/ef5d3b6da8afa01294da9b808443b5f2118a926c)
+### Day 47: October 28
+
+Added the auth interactor to the list of generated files by the gem generator.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/cca802d59abcefc8f361043501e798edb9797614)

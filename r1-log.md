@@ -251,3 +251,8 @@ Allow additional payload in sign up requests. Finished 12th challenge of JS30.
 Added the auth interactor to the list of generated files by the gem generator.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/cca802d59abcefc8f361043501e798edb9797614)
+### Day 48: October 29
+
+Finished 13th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/599a2b917c2955397b39abdb29f15f55807549d4)

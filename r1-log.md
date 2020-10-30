@@ -256,3 +256,8 @@ Added the auth interactor to the list of generated files by the gem generator.
 Finished 13th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/599a2b917c2955397b39abdb29f15f55807549d4)
+### Day 49: October 30
+
+Learning about testing Rails engines and generators. Set up the gem project for testing.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/4b0c5fece727d217cb99b987f5956cbc9fe4205d)

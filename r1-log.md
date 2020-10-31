@@ -261,3 +261,8 @@ Finished 13th challenge of JS30.
 Learning about testing Rails engines and generators. Set up the gem project for testing.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/4b0c5fece727d217cb99b987f5956cbc9fe4205d)
+### Day 50: October 31
+
+Finished 14th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/c652eeb07a2270c3332bb0a2d7e32fb7818e5937)

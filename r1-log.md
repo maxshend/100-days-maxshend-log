@@ -266,3 +266,6 @@ Learning about testing Rails engines and generators. Set up the gem project for 
 Finished 14th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/c652eeb07a2270c3332bb0a2d7e32fb7818e5937)
+### Day 51: November 1
+
+Writing specs for Rails generators.

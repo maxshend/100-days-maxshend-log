@@ -274,3 +274,8 @@ Writing specs for Rails generators.
 Finished 15th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/746be2cde63d6270ba63311ffe3c7a3a9a256d04)
+### Day 53: November 3
+
+Finished 16th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/d3a9a4e00747a6ff8938cee5789f53bbf6dd0be2)

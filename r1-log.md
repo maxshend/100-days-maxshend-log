@@ -294,3 +294,8 @@ Added specs to the gem for cases when user model already exists. Created test he
 Finished 17th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/860aa5d8968677896c3cbb618e6e0a5500dd84cd)
+### Day 57: November 7
+
+Adding JWT validation to the gem so there will be ability in an app to create requests with authentication.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/3082c58ac6359bba5eb3c0b676a1889006e39c4a)

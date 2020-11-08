@@ -299,3 +299,8 @@ Finished 17th challenge of JS30.
 Adding JWT validation to the gem so there will be ability in an app to create requests with authentication.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/3082c58ac6359bba5eb3c0b676a1889006e39c4a)
+### Day 58: November 8
+
+Finished 18th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/587632e2b677a289de54963367a84c2a72d444be)

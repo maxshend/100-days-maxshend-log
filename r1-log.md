@@ -304,3 +304,8 @@ Adding JWT validation to the gem so there will be ability in an app to create re
 Finished 18th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/587632e2b677a289de54963367a84c2a72d444be)
+### Day 59: November 9
+
+Added the initializer generation to the gem. Added a locales file. Fixed check_token errors.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/2b816b5f00a0f353c7aa3299e8d6bda1a7b4c5b5)

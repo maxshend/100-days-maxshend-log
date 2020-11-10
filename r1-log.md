@@ -314,3 +314,5 @@ Added the initializer generation to the gem. Added a locales file. Fixed check_t
 Added dynamic name for the method that returns an authenticated resource, so an app that uses the gem won't be restricted to "User" model only.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/5d93a26d711e672e8c98fa184b514188ab4ccfeb)
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/b1d43f4d2356c38158096fadff9c47b5c9de0b10)

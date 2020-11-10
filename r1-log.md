@@ -309,3 +309,8 @@ Finished 18th challenge of JS30.
 Added the initializer generation to the gem. Added a locales file. Fixed check_token errors.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/2b816b5f00a0f353c7aa3299e8d6bda1a7b4c5b5)
+### Day 60: November 10
+
+Added dynamic name for the method that returns an authenticated resource, so an app that uses the gem won't be restricted to "User" model only.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/5d93a26d711e672e8c98fa184b514188ab4ccfeb)

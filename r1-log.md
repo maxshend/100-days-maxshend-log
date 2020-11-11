@@ -316,3 +316,8 @@ Added dynamic name for the method that returns an authenticated resource, so an 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/5d93a26d711e672e8c98fa184b514188ab4ccfeb)
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/b1d43f4d2356c38158096fadff9c47b5c9de0b10)
+### Day 61: November 11
+
+Finished 19th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/629baaa0a1ee00d5614e47189f87f419cd405d2d)

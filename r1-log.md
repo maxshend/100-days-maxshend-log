@@ -321,3 +321,11 @@ Added dynamic name for the method that returns an authenticated resource, so an 
 Finished 19th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/629baaa0a1ee00d5614e47189f87f419cd405d2d)
+### Day 62: November 12
+
+Gem: Added model name to the initializer. Fixed controllers authentication concern (used incorrect method). Added method to get user roles.
+Auth: Fixed bug in the email login handler that were caused by the empty roles array from the db.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/edc845e43af66722c79f1c112a7e39e6a89adf75)
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/5534eba56b837ccd8ef5c047070ec0f6f3861734)

@@ -329,3 +329,8 @@ Auth: Fixed bug in the email login handler that were caused by the empty roles a
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/edc845e43af66722c79f1c112a7e39e6a89adf75)
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/5534eba56b837ccd8ef5c047070ec0f6f3861734)
+### Day 63: November 13
+
+Finished 20th challenge of JS30. Learned basics of Web Speech API.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/2918c8fc4326b6da0e58b481fb60a4e860b071c9)

@@ -334,3 +334,11 @@ Auth: Fixed bug in the email login handler that were caused by the empty roles a
 Finished 20th challenge of JS30. Learned basics of Web Speech API.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/2918c8fc4326b6da0e58b481fb60a4e860b071c9)
+### Day 64: November 14
+
+Figured out how to stub external requests in auto tests using httptest Go package.
+Finished 21th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/98e76998ad1240e4587ba832cdf9a46c1bdba81f)
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/36f4e63323fd3b36ff2e0676dd1cc0bbd944bd72)

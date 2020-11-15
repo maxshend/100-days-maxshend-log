@@ -342,3 +342,8 @@ Finished 21th challenge of JS30.
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/98e76998ad1240e4587ba832cdf9a46c1bdba81f)
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/36f4e63323fd3b36ff2e0676dd1cc0bbd944bd72)
+### Day 65: November 15
+
+Finished 22th challenge of JS30. Learned about moveable link highlighter and scroll compensation.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/541408b4916d8f5b1da6a3b54ae0d616d47274b4)

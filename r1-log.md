@@ -347,3 +347,8 @@ Finished 21th challenge of JS30.
 Finished 22th challenge of JS30. Learned about moveable link highlighter and scroll compensation.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/541408b4916d8f5b1da6a3b54ae0d616d47274b4)
+### Day 66: November 16
+
+Finished 23th challenge of JS30. Learned basics of SpeechSynthesisUtterance interface.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/8270c481f6a9d1e93b5e7bebeccdcc0b070e1bcf)

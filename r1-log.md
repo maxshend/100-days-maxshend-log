@@ -352,3 +352,8 @@ Finished 22th challenge of JS30. Learned about moveable link highlighter and scr
 Finished 23th challenge of JS30. Learned basics of SpeechSynthesisUtterance interface.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/8270c481f6a9d1e93b5e7bebeccdcc0b070e1bcf)
+### Day 67: November 17
+
+Created a new Rails project for the business logic API of the "Loyalty Area" application that will be used for testing the auth service and finding problems and possible improvements.
+
+[Link to work](https://github.com/maxshend/loyalty-area/commit/0dfac03cde7f6d379e67d797c44d044cb4a3a3d3)

@@ -357,3 +357,10 @@ Finished 23th challenge of JS30. Learned basics of SpeechSynthesisUtterance inte
 Created a new Rails project for the business logic API of the "Loyalty Area" application that will be used for testing the auth service and finding problems and possible improvements.
 
 [Link to work](https://github.com/maxshend/loyalty-area/commit/0dfac03cde7f6d379e67d797c44d044cb4a3a3d3)
+### Day 68: November 18
+
+Finished 24-25th challenges of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/39c803195b411061010b4bc57c71ead8ecd0e2d4)
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/4f9808b24ef2ec148e6d5e9a033dc00ea039a9a5)

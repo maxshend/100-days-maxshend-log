@@ -364,3 +364,10 @@ Finished 24-25th challenges of JS30.
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/39c803195b411061010b4bc57c71ead8ecd0e2d4)
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/4f9808b24ef2ec148e6d5e9a033dc00ea039a9a5)
+### Day 69: November 19
+
+Created User model in the app. Added gem generator's attributes to the generated interactor class that responsible for creating new users.
+
+[Link to work](https://github.com/maxshend/loyalty-area/commit/f55926b0f7a7a655c8c98f5e863be0999d1790bb)
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/45f1e6fbebabca9bc6e9fad9735b356ccd48f597)

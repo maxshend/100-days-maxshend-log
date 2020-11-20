@@ -371,3 +371,8 @@ Created User model in the app. Added gem generator's attributes to the generated
 [Link to work](https://github.com/maxshend/loyalty-area/commit/f55926b0f7a7a655c8c98f5e863be0999d1790bb)
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/45f1e6fbebabca9bc6e9fad9735b356ccd48f597)
+### Day 70: November 20
+
+Finished 26th challenge of JS30.
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/404b484cfba3a95aedd06c59bc33fe4d75d65e98)

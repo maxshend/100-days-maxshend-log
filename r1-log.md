@@ -376,3 +376,8 @@ Created User model in the app. Added gem generator's attributes to the generated
 Finished 26th challenge of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/404b484cfba3a95aedd06c59bc33fe4d75d65e98)
+### Day 71: November 21
+
+Dockerized the development environment of the Rails API app.
+
+[Link to work](https://github.com/maxshend/loyalty-area/commit/6ff111b940776368fba1ed8e0a3b96b4e43cf103)

@@ -386,3 +386,10 @@ Dockerized the development environment of the Rails API app.
 Finished 27-28th challenges of JS30.
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/f903cdb4299d6014676814d42fda335374427ae8)
+### Day 73: November 23
+
+Finished 29-30th challenges of JS30. Done!
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/ac333bdd05869a078b6324af91d96828286c7c52)
+
+[Link to work](https://github.com/maxshend/myJavaScript30/commit/e9edbbfe4faea870c8c646ed7137d29f727ce1f4)

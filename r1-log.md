@@ -393,3 +393,8 @@ Finished 29-30th challenges of JS30. Done!
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/ac333bdd05869a078b6324af91d96828286c7c52)
 
 [Link to work](https://github.com/maxshend/myJavaScript30/commit/e9edbbfe4faea870c8c646ed7137d29f727ce1f4)
+### Day 74: November 24
+
+Fixed database cleaner Safeguard Error. Changed bundler installation in the Dockerfile. Figuring out how to connect all needed services with docker compose.
+
+[Link to work](https://github.com/maxshend/loyalty-area/commit/c2c24b48df272c40eba7bd8e553e67318467a124)

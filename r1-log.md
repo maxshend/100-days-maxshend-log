@@ -398,3 +398,8 @@ Finished 29-30th challenges of JS30. Done!
 Fixed database cleaner Safeguard Error. Changed bundler installation in the Dockerfile. Figuring out how to connect all needed services with docker compose.
 
 [Link to work](https://github.com/maxshend/loyalty-area/commit/c2c24b48df272c40eba7bd8e553e67318467a124)
+### Day 75: November 25
+
+Added auth service to the docker compose. Configuring multiapp dev environment with docker compose.
+
+[Link to work](https://github.com/maxshend/loyalty-area/commit/0536ee959db9ce61bc8de5f7084cdc75d8c56a11)

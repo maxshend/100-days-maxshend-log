@@ -403,3 +403,8 @@ Fixed database cleaner Safeguard Error. Changed bundler installation in the Dock
 Added auth service to the docker compose. Configuring multiapp dev environment with docker compose.
 
 [Link to work](https://github.com/maxshend/loyalty-area/commit/0536ee959db9ce61bc8de5f7084cdc75d8c56a11)
+### Day 76: November 26
+
+Added an option to the auth service to run database migrations on start. Created a function that runs sql code from files in migrations directory.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/7f27e9737cd19e5f1f9d90ad3a5f9aa69d6a4380)

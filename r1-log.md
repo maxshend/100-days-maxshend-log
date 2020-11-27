@@ -408,3 +408,8 @@ Added auth service to the docker compose. Configuring multiapp dev environment w
 Added an option to the auth service to run database migrations on start. Created a function that runs sql code from files in migrations directory.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/7f27e9737cd19e5f1f9d90ad3a5f9aa69d6a4380)
+### Day 78: November 27
+
+Fixing bug in the auth service that were caused by the uncopied migrations files to the final docker image.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/7956306ea03d3035eddf2e55954cb4119e98540f)

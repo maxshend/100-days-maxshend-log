@@ -413,3 +413,8 @@ Added an option to the auth service to run database migrations on start. Created
 Fixed bug in the auth service that were caused by the uncopied migrations files to the final docker image.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/7956306ea03d3035eddf2e55954cb4119e98540f)
+### Day 79: November 28
+
+Fixed problems with interaction of the Rails app and Auth service. Figured out that db hostnames with underscores in Rails are not handled correctly.
+
+[Link to work](https://github.com/maxshend/loyalty-area/commit/8127c829a22e64db7ef519544e165101002d5bae)

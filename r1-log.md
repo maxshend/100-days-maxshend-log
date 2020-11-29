@@ -418,3 +418,8 @@ Fixed bug in the auth service that were caused by the uncopied migrations files 
 Fixed problems with interaction of the Rails app and Auth service. Figured out that db hostnames with underscores in Rails are not handled correctly.
 
 [Link to work](https://github.com/maxshend/loyalty-area/commit/8127c829a22e64db7ef519544e165101002d5bae)
+### Day 80: November 29
+
+Improving handling of business logic apps HTTP errors in the auth service.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/a3b33030829680926f355160019b2c0291c1476c)

@@ -423,3 +423,11 @@ Fixed problems with interaction of the Rails app and Auth service. Figured out t
 Improving handling of business logic apps HTTP errors in the auth service.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/a3b33030829680926f355160019b2c0291c1476c)
+### Day 80: November 30
+
+Unwrap "payload" params from the auth service before passing to the API app interactor that creates a user.
+Created an HTTP request handler in the auth service to remove users records from the db.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/f394a5c5ca18802fab85aa106cd281b030b782db)
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/042817f6171ccd1aa2452aea18f1773c9c25b762)

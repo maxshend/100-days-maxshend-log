@@ -431,3 +431,8 @@ Created an HTTP request handler in the auth service to remove users records from
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/f394a5c5ca18802fab85aa106cd281b030b782db)
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/042817f6171ccd1aa2452aea18f1773c9c25b762)
+### Day 81: December 1
+
+Added unit tests for DeleteUser HTTP handler.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/70724df98617bdf954c4c8e72e0d019a23b57ed8)

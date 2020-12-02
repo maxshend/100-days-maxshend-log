@@ -436,3 +436,8 @@ Created an HTTP request handler in the auth service to remove users records from
 Added unit tests for DeleteUser HTTP handler.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/70724df98617bdf954c4c8e72e0d019a23b57ed8)
+### Day 82: December 2
+
+Adding roles to the user registration process of the auth service.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/1181525ffe4e5848de744ae37e9e45e42ef1e2be)

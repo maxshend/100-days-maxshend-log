@@ -441,3 +441,8 @@ Added unit tests for DeleteUser HTTP handler.
 Adding roles to the user registration process of the auth service.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/1181525ffe4e5848de744ae37e9e45e42ef1e2be)
+### Day 83: December 3
+
+Created a custom validation for User roles.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/6e9f1134ecab4599dbe1064d704c70f9aa66e2bc)

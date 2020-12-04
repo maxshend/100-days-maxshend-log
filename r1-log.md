@@ -446,3 +446,10 @@ Adding roles to the user registration process of the auth service.
 Created a custom validation for User roles.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/6e9f1134ecab4599dbe1064d704c70f9aa66e2bc)
+### Day 84: December 4
+
+Combined user roles records creation requests into a batch DB request. Add internal HTTP request to create roles.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/4abd6ab4b8b455e38ffbd460b88af173c0af201e)
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/f00e6aa2f3c4a94fbd5142172168bbd18e84262c)

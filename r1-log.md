@@ -453,3 +453,8 @@ Combined user roles records creation requests into a batch DB request. Add inter
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/4abd6ab4b8b455e38ffbd460b88af173c0af201e)
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/f00e6aa2f3c4a94fbd5142172168bbd18e84262c)
+### Day 85: December 5
+
+Added to the gem a generator to fill available roles in the auth service.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/40ef06efacc0213ded668d84a504135f04c91c2a)

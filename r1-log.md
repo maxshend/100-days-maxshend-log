@@ -458,3 +458,8 @@ Combined user roles records creation requests into a batch DB request. Add inter
 Added to the gem a generator to fill available roles in the auth service.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/40ef06efacc0213ded668d84a504135f04c91c2a)
+### Day 86: December 6
+
+Changed CreateRole handler to allow creating multiple roles with one request. Added an internal handler to delete a specified role. Created corresponding unit tests.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/17c66c3de5d9db9093b23763b0d1d1bed8cfa85d)

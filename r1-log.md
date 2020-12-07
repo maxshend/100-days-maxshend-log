@@ -463,3 +463,11 @@ Added to the gem a generator to fill available roles in the auth service.
 Changed CreateRole handler to allow creating multiple roles with one request. Added an internal handler to delete a specified role. Created corresponding unit tests.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/17c66c3de5d9db9093b23763b0d1d1bed8cfa85d)
+### Day 87: December 7
+
+Modify DeleteRole HTTP handler to allow deleting multiple roles in one request.
+Added to the gem ability to delete existing roles in the auth service using revoke behaviour of the corresponding generator.
+
+[Link to work](https://github.com/maxshend/tiny-goauth/commit/6a2a5b6c6668881410e32897d1da9f6b1f0b232e)
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/4816e7c14553698141abc7b70b53f9043571cd2a)

@@ -470,4 +470,9 @@ Added to the gem ability to delete existing roles in the auth service using revo
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/6a2a5b6c6668881410e32897d1da9f6b1f0b232e)
 
-[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/4816e7c14553698141abc7b70b53f9043571cd2a)
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/4e5e52bb14a1f2a5ebcdcf80158f478901d1ed92)
+### Day 88: December 8
+
+Fixed a bug with request params compability of the rails gem and the auth service.
+
+[Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/a340ca741c11fb4bfaa9b91b75db37ff3ebe0c7a)

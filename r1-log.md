@@ -476,3 +476,6 @@ Added to the gem ability to delete existing roles in the auth service using revo
 Fixed a bug with request params compability of the rails gem and the auth service.
 
 [Link to work](https://github.com/maxshend/tiny_goauth-rails/commit/a340ca741c11fb4bfaa9b91b75db37ff3ebe0c7a)
+### Day 89: December 9
+
+Learning about gRPC and protobuf. Playing around with code examples.

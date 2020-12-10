@@ -481,3 +481,8 @@ Fixed a bug with request params compability of the rails gem and the auth servic
 Learning about gRPC and protobuf. Playing around with code examples. Small fixes in the auth service.
 
 [Link to work](https://github.com/maxshend/tiny-goauth/commit/2eba52b770e76991c2397d98213f52f957c44ba6)
+### Day 90: December 10
+
+Created a new project for the email sender service that will be used in the auth service for sending confirmation emails. Going through a gRPC tutorial.
+
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/0292c9c7e49e4b774719b30057064eeaa6a91928)

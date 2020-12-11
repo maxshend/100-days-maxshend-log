@@ -486,3 +486,8 @@ Learning about gRPC and protobuf. Playing around with code examples. Small fixes
 Created a new project for the email sender service that will be used in the auth service for sending confirmation emails. Going through a gRPC tutorial.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/0292c9c7e49e4b774719b30057064eeaa6a91928)
+### Day 91: December 11
+
+Created .proto file that defines the data and interface of the mailer service. Generated client- and server-side code from this file.
+
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/bbfecc8bece585f56d2b1a81efb3e9e96f33d303)

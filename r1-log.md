@@ -491,3 +491,8 @@ Created a new project for the email sender service that will be used in the auth
 Created .proto file that defines the data and interface of the mailer service. Generated client- and server-side code from this file.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/bbfecc8bece585f56d2b1a81efb3e9e96f33d303)
+### Day 92: December 12
+
+Added to the mailer service method for sending text email messages using SMTP.
+
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/c4576129ce70609ffd60fcd34fe70b3ef1c8beee)

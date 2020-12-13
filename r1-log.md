@@ -496,3 +496,8 @@ Created .proto file that defines the data and interface of the mailer service. G
 Added to the mailer service method for sending text email messages using SMTP.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/c4576129ce70609ffd60fcd34fe70b3ef1c8beee)
+### Day 93: December 13
+
+Added to the mailer service sending HTML email messages. Learning about a Quadtree data structure.
+
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/d8e192992fe28c20765609855ff66c63e6cc1b67)

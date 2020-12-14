@@ -501,3 +501,8 @@ Added to the mailer service method for sending text email messages using SMTP.
 Added to the mailer service sending HTML email messages. Learning about a Quadtree data structure.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/d8e192992fe28c20765609855ff66c63e6cc1b67)
+### Day 94: December 14
+
+Added code responsible for starting gRPC server of the mailer service. Added auto tests.
+
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/abacfb687501a77d4a15d9e1fffaf012784e3223)

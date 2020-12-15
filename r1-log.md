@@ -506,3 +506,8 @@ Added to the mailer service sending HTML email messages. Learning about a Quadtr
 Added code responsible for starting gRPC server of the mailer service. Added auto tests.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/abacfb687501a77d4a15d9e1fffaf012784e3223)
+### Day 95: December 15
+
+Working on a Quadtree implementation in Go.
+
+[Link to Work](https://github.com/maxshend/quadtree-go/commit/d4c7ea1a58ce408152730b954a5852244e1aac90)

@@ -511,3 +511,8 @@ Added code responsible for starting gRPC server of the mailer service. Added aut
 Working on a Quadtree implementation in Go.
 
 [Link to Work](https://github.com/maxshend/quadtree-go/commit/d4c7ea1a58ce408152730b954a5852244e1aac90)
+### Day 96: December 16
+
+Implemented Subdivide and Insert methods of a Quadtree. Added auto tests.
+
+[Link to work](https://github.com/maxshend/quadtree-go/commit/6d92a03eb531b1e9dd2d9bf5c69c9379f53c9b26)

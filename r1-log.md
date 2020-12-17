@@ -516,3 +516,8 @@ Working on a Quadtree implementation in Go.
 Implemented Subdivide and Insert methods of a Quadtree. Added auto tests.
 
 [Link to work](https://github.com/maxshend/quadtree-go/commit/6d92a03eb531b1e9dd2d9bf5c69c9379f53c9b26)
+### Day 97: December 17
+
+Added methods to query a Quadtree and to check whether two rectangular boundaries are intersect.
+
+[Link to work](https://github.com/maxshend/quadtree-go/commit/7a00c1f70bc979fbad3da60f958271ebd8134935)

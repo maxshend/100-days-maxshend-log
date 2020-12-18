@@ -521,3 +521,8 @@ Implemented Subdivide and Insert methods of a Quadtree. Added auto tests.
 Added methods to query a Quadtree and to check whether two rectangular boundaries are intersect.
 
 [Link to work](https://github.com/maxshend/quadtree-go/commit/7a00c1f70bc979fbad3da60f958271ebd8134935)
+### Day 98: December 18
+
+Fixed Subdivide method of a Quadtree. Increased test coverage.
+
+[Link to work](https://github.com/maxshend/quadtree-go/commit/e89e99c72bea9329609f1c61ccac8978e76d0449)

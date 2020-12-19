@@ -526,3 +526,8 @@ Added methods to query a Quadtree and to check whether two rectangular boundarie
 Fixed Subdivide method of a Quadtree. Increased test coverage.
 
 [Link to work](https://github.com/maxshend/quadtree-go/commit/e89e99c72bea9329609f1c61ccac8978e76d0449)
+### Day 99: December 19
+
+Created Sender interface in the mailer service that will allow me to use different approaches to send emails and help me to write auto tests without sending real requests. Changed implementation of existing methods.
+
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/a12e91653a2df2880bb5fcb18fe50d9aa12f8712)

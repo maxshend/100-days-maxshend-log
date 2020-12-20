@@ -536,4 +536,5 @@ Created Sender interface in the mailer service that will allow me to use differe
 Added to the mailer service Sendgrid integration. Created log wrapper to log responses from senders services.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/73318109437645ef5633d86e755a2418ba8f7973)
+
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/7a391a3de43cd321bd5a42431076d373571cf6bf)

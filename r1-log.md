@@ -533,7 +533,7 @@ Created Sender interface in the mailer service that will allow me to use differe
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/a12e91653a2df2880bb5fcb18fe50d9aa12f8712)
 ### Day 100: December 20
 
-Added to the mailer service Sendgrid integration. Created log wrapper to log responses from senders services.
+Added Sendgrid integration to the mailer service. Created log wrapper to log responses from senders services.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/73318109437645ef5633d86e755a2418ba8f7973)
 

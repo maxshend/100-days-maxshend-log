@@ -531,3 +531,9 @@ Fixed Subdivide method of a Quadtree. Increased test coverage.
 Created Sender interface in the mailer service that will allow me to use different approaches to send emails and help me to write auto tests without sending real requests. Changed implementation of existing methods.
 
 [Link to work](https://github.com/maxshend/tiny-gomail/commit/a12e91653a2df2880bb5fcb18fe50d9aa12f8712)
+### Day 100: December 20
+
+Added to the mailer service Sendgrid integration. Created log wrapper to log responses from senders services.
+
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/73318109437645ef5633d86e755a2418ba8f7973)
+[Link to work](https://github.com/maxshend/tiny-gomail/commit/7a391a3de43cd321bd5a42431076d373571cf6bf)
